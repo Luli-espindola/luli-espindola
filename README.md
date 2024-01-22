@@ -4,7 +4,7 @@
   <h3> Hola, soy Lucia, me aventuré en el desarrollo Full Stack, donde combino creatividad y habilidades técnicas para construir soluciones web impactantes. La programación me gusta mucho por su capacidad de crear, innovar y resolver problemas. Siempre busco oportunidades para aprender y crecer en este campo en evolución.🚀</h3>
  
   <h1>Objetivo: </h1>
-  <h3>🎀Busco consolidar mi carrera como desarrolladora web full stack, contribuyendo a equipos dinámicos y proyectos innovadores. Mi objetivo es aplicar y expandir mis habilidades creativas y técnicas, mientras colaboro en la creación de experiencias digitales excepcionales que impulsen el éxito del equipo y la empresa.🎀 </h3> 
+  <h3>🎀Busco consolidar mi carrera, contribuyendo a equipos dinámicos y proyectos innovadores. Quiero expandir mis habilidades creativas y técnicas, mientras colaboro en la creación de experiencias digitales excepcionales que impulsen el éxito del equipo y la empresa.🎀 </h3> 
    </div>
 
 <div align = "center">
